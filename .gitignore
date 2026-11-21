@@ -1,0 +1,8 @@
+.env
+.venv/
+data/
+tests/data/
+__pycache__/
+*.pyc
+*.db
+*.session*
